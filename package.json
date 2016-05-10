@@ -1,0 +1,30 @@
+{
+  "name": "gulp-language-tool",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul cover _mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7",
+    "superagent": "^1.8.3",
+    "text-table": "^0.2.0",
+    "through2": "^2.0.1",
+    "xml2js": "^0.4.16"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "event-stream": "^3.3.2",
+    "gulp-plumber": "^1.1.0",
+    "rewire": "^2.5.1",
+    "should": "^8.3.1",
+    "sinon": "^1.17.4",
+    "superagent-mock": "^1.10.0",
+    "vinyl": "^1.1.1"
+  }
+}

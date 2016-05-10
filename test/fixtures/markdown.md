@@ -1,0 +1,1 @@
+## This is a example input to to show you how LanguageTool works.
