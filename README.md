@@ -1,5 +1,7 @@
 # gulp-language-tool
 
+A plugin for gulp that enables spelling & grammar checks on html and markdown files.
+
 ## Usage
 
 ```javascript
