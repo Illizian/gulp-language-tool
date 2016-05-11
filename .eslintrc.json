@@ -14,22 +14,10 @@
         "it": true
     },
     "rules": {
-        "indent": [
-            "error",
-            "tab"
-        ],
-        "linebreak-style": [
-            "error",
-            "unix"
-        ],
-        "quotes": [
-            "error",
-            "single"
-        ],
-        "semi": [
-            "error",
-            "always"
-        ],
+        "indent": [ 2, "tab" ],
+        "linebreak-style": [ 2, "unix" ],
+        "quotes": [ 2, "single" ],
+        "semi": [ 2, "always" ],
         "no-console": 0
     }
 }
